@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm nubby0208</h1>
 <h3 align="center">A senior cross-platform frontend developer who is fluent mainly in React.js, Vue.js and Angular.js</h3>
 
-- 👀 I’m currently looking for website project I can devote myself to full time
-
-- 🦾 My representative past projects are https://startupswallet.com, https://letsusedata.com and https://coveinterior.com etc.
+- 🦾 My past projects are https://startupswallet.com, https://letsusedata.com and https://coveinterior.com etc.
 
 - 💬 Ask me anything about **React, Vue and Angular**
 
