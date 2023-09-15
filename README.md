@@ -1,4 +1,3 @@
-<a rel="me" href="https://fosstodon.org/@nubby0208">Mastodon</a>
 <h1 align="center">Hi 👋, I'm nubby0208</h1>
 <h3 align="center">A senior cross-platform frontend developer who is fluent mainly in React.js, Vue.js and Angular.js</h3>
 
@@ -6,7 +5,7 @@
 
 - 💬 Ask me anything about **React, Vue and Angular**
 
-- 📫 How to reach me **nubby0208@gmail.com**
+- 📫 How to reach me **luiw367@gmail.com**
 
 <p align="left">
 </p>
